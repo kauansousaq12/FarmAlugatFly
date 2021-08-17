@@ -1,0 +1,8 @@
+name: FarmAlugarFly
+version: 1.0
+author: [Losting]
+main: me.alugarfly.Main
+commands:
+  alugarfly:
+    description: [Plugin de Alugar Fly]
+  givealugarfly:
